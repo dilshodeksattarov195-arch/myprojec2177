@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoiceretch",
+        "uuid": 12567821,
+        "checksum": "0jcnfs"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
